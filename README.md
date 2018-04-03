@@ -1,8 +1,7 @@
 # [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
 
-write a statement here certifying that you have read and committed to each section of the programmer's oath.
+Each statement certifies that I have read and committed to each section of the programmer's oath.
 
-Make this into a repo with a live gh-pages and post a link to it at the top of your portfolio.
 
 ### Index
 * [First Promise](#first-promise)
